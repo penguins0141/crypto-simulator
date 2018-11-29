@@ -9,7 +9,7 @@ import org.junit.Test;
 
 
 /**
- * Created by req80117 on 04/28/2017.
+ * Created by Rob Temple on 04/28/2017.
  */
 public class CipherScanTester {
 
